@@ -1,0 +1,13 @@
+Nombre,Age,City
+Juan,30,Madrid
+Ana,25,Barcelona
+Carlos,40,Valencia
+
+
+ejemplo dos:
+
+ID_Alumno,Nombre,Apellido,FechaNacimiento,Grado,Seccion
+1,Juan,Perez,2000-01-01,6,B
+2,Ana,Gomez,1999-05-15,7,A
+3,Carlos,Lopez,2001-08-20,8,C
+4,Sofia,Rodriguez,2002-02-28,9,D
